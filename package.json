@@ -1,0 +1,26 @@
+{
+  "name": "ruix",
+  "version": "0.0.1",
+  "description": "UI components library",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolasnajera/ruix.git"
+  },
+  "keywords": [
+    "ruix",
+    "tailwind",
+    "javascript"
+  ],
+  "author": "Rolas Najera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolasnajera/ruix/issues"
+  },
+  "homepage": "https://github.com/rolasnajera/ruix#readme"
+}
