@@ -1,26 +1,31 @@
 {
   "name": "ruix",
+  "private": "true",
   "version": "0.0.1",
-  "description": "UI components library",
-  "main": "index.js",
-  "scripts": {
-    "test": "vitest",
-    "coverage": "vitest run --coverage",
-    "start": "node index.js"
+  "license": "MIT",
+  "author": {
+    "name": "Rolas Najera",
+    "email": "info@rolasnajera.dev"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rolasnajera/ruix.git"
   },
+  "description": "UI components library",
   "keywords": [
-    "ruix",
+    "Rolas Najera",
+    "UI",
+    "React",
     "tailwind",
-    "javascript"
+    "git",
+    "components",
+    "typescript"
   ],
-  "author": "Rolas Najera",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rolasnajera/ruix/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/rolasnajera/ruix#readme"
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
 }
